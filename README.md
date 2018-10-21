@@ -13,3 +13,5 @@ How to setup
 • Run php artisan serve to serve with address http://localhost:8000/
 
 • Open in your browser with address http://localhost:8000/
+
+• Navigate under /passports
